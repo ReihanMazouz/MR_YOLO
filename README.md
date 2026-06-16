@@ -67,13 +67,9 @@ The benchmark figures below compare detection quality against model cost. They
 are intended to make the accuracy-efficiency trade-off explicit when selecting
 an MR-YOLO scale or comparing against alternative detectors.
 
-### mAP vs Compute
+### mAP vs Compute and Model Size
 
-![Benchmark mAP vs FLOPs](assets/benchmark_map_vs_flops.png)
-
-### mAP vs Model Size
-
-![Benchmark mAP vs parameters](assets/benchmark_map_vs_params.png)
+![Benchmark mAP vs FLOPs and parameters](assets/benchmark_map_vs_params_flops.png)
 
 ### SNR Recall vs Compute
 
